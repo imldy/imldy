@@ -2,7 +2,7 @@
 
 （￣︶￣）↗　
 
-[![imldy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=imldy&show_icons=true&hide=contribs,prs&include_all_commits=true&bg_color=30,fcb590,e46454&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/imldy)
+[![imldy's GitHub Stats](https://github-readme-stats.imldy.cn/api?username=imldy&show_icons=true)](https://github.com/imldy)
 
 <!--
 **imldy/imldy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
